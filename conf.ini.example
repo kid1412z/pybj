@@ -1,0 +1,25 @@
+[User]
+# 需要解密HTTPS，抓包得到
+userid=...
+# 行驶证正面照片480w*640h
+vihicle_licence_photo=1.jpg
+# 驾驶证正面照片480w*640h
+driver_licence_photo=2.jpg
+# 人和身份证照片480w*640h
+person_with_id_photo=3.jpg
+# 车辆正面照片640w*480h NOTE:注意和上面的区别
+car_photo=4.jpg
+#驾驶员姓名
+drivername=张三
+# 驾驶证编号(身份证号)
+driverlicenseno=...
+# 车牌号
+licenseno=...
+# 引擎编号
+engineno=...
+# 汽车品牌型号（没有中文）
+carmodel=...
+# 车辆注册日期
+carregtime=yyyy-mm-dd
+#环保等级（一般是3，如果总是核验失败可以尝试在这里手动配置）
+env_grade=3
