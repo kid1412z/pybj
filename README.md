@@ -2,6 +2,8 @@
 Apply a ticket to bj
 
 # Usage
+
+```bash
 usage: pybj.py [-h] [-d DATE] [-t RETRY] [-s] [-f FILE]
 
 optional arguments:
@@ -18,6 +20,8 @@ optional arguments:
                         large. I recommend you check from server for the first
                         time, to make sure you fill in the right one.
   -f FILE, --file FILE  Path to config file. Default ./conf.ini
+```
+
 
 
 # TODO
